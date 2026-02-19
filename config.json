@@ -1,0 +1,12 @@
+{
+    "comfyui_path": "/home/om/AI/comfy",
+    "server_port": 8188,
+
+    "generation_mode": "one_per_model", 
+    "images_per_combination": 1,
+
+    "model_folder": "model/1",
+    "print_folder": "prints",
+    "output_folder": "output",
+    "prompt_file": "prompts/print.txt"
+}
