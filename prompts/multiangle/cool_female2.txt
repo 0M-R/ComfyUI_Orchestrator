@@ -1,0 +1,14 @@
+position camera at waist height
+angle camera 30 degrees from front-left
+apply slight downward tilt (5 degrees)
+set framing from upper thigh to head
+
+rotate torso 25 degrees away from camera
+shift weight onto left hip
+push right hip outward slightly
+bend right knee subtly
+let right arm hang relaxed
+place left hand near upper thigh
+turn head back toward camera 15 degrees
+keep shoulders relaxed and asymmetrical
+maintain casual posture

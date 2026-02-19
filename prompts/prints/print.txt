@@ -1,0 +1,8 @@
+Transfer the graphic design from image2 onto the main visible surface of the upper garment worn by the person in image1.
+
+Keep the person, body shape, pose, lighting, background, garment type, and garment color unchanged.
+
+Center the design on the largest visible flat area of the garment. The print should cover approximately 55–65% of the visible garment area and be proportionally scaled to fit naturally within the clothing boundaries.
+
+The design must follow fabric folds, perspective, lighting, and contours realistically, appearing as a high-quality professional print applied to the garment.
+
