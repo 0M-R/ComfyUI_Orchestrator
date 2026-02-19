@@ -1,4 +1,4 @@
-#This program is in beta phase.
+#** This program is in beta phase **
 # ComfyUI_Orchestrator
 
 ComfyUI_Orchestrator is a lightweight local orchestration layer for ComfyUI that automates workflow execution, manages batch jobs, and enables scalable generation of multiple images programmatically via the ComfyUI API.
