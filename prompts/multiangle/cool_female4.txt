@@ -1,13 +1,24 @@
-position camera at hip level
-tilt camera upward 5–8 degrees
-use wider framing for full body vertical composition
+same exact person from the reference image,
+preserve identical face structure,
+preserve skin tone, hairstyle, facial details,
+preserve body shape and proportions,
+preserve the exact same outfit, clothing design, fabric texture, and accessories,
 
-shift weight fully onto right leg
-bend left knee slightly forward
-angle hips slightly to left
-lean upper back gently toward wall
-raise left hand toward hair
-keep right arm relaxed along side
-turn head slightly to side (20 degrees)
-drop one shoulder slightly for natural posture
-maintain relaxed body alignment
+do not change the person,
+do not change clothing,
+do not modify outfit color or print,
+do not alter facial features,
+
+change only the pose,
+change body posture naturally,
+change camera angle ( dynamic framing,
+change background to a new environment,
+
+realistic lighting matching the new scene,
+natural shadows,
+high detail skin texture,
+high detail fabric texture,
+photorealistic,
+identity consistency,
+outfit consistency
+

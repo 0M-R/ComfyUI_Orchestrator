@@ -11,7 +11,7 @@ do not alter facial features,
 
 change only the pose,
 change body posture naturally,
-change camera angle (low angle),
+change camera angle (high angle),
 change background to a new environment,
 
 realistic lighting matching the new scene,
@@ -21,4 +21,3 @@ high detail fabric texture,
 photorealistic,
 identity consistency,
 outfit consistency
-

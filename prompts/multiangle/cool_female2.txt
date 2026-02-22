@@ -1,14 +1,24 @@
-position camera at waist height
-angle camera 30 degrees from front-left
-apply slight downward tilt (5 degrees)
-set framing from upper thigh to head
+same exact person from the reference image,
+preserve identical face structure,
+preserve skin tone, hairstyle, facial details,
+preserve body shape and proportions,
+preserve the exact same outfit, clothing design, fabric texture, and accessories,
 
-rotate torso 25 degrees away from camera
-shift weight onto left hip
-push right hip outward slightly
-bend right knee subtly
-let right arm hang relaxed
-place left hand near upper thigh
-turn head back toward camera 15 degrees
-keep shoulders relaxed and asymmetrical
-maintain casual posture
+do not change the person,
+do not change clothing,
+do not modify outfit color or print,
+do not alter facial features,
+
+change only the pose,
+change body posture naturally,
+change camera angle ( side angle),
+change background to a new environment,
+
+realistic lighting matching the new scene,
+natural shadows,
+high detail skin texture,
+high detail fabric texture,
+photorealistic,
+identity consistency,
+outfit consistency
+
