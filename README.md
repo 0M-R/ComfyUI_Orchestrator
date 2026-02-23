@@ -80,15 +80,9 @@ python main.py
 The orchestrator can execute workflows multiple times to generate batches of images automatically using the ComfyUI API.
 
 ---
-## multi prompt on same image
+## Multi prompt on same image
 ![alt text](https://github.com/0M-R/ComfyUI_Orchestrator/blob/main/2.png)
 
-Multiangle (multi-prompt) = generating different pose/angle outputs by changing prompts while keeping the same product/design context
-prompt_1.txt "front view female model wearing groot printed t-shirt"
-prompt_2txt "back view female model wearing groot printed t-shirt"
-prompt_3txt. "side pose walking model wearing groot printed t-shirt"
-prompt_4txt. "street fashion pose wearing groot printed t-shirt"
-prompt_5txt. "studio photoshoot pose wearing groot printed t-shirt"
 ---
 ## Configuration
 Edit the following variables in `main.py` if needed:
