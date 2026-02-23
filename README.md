@@ -75,7 +75,7 @@ python main.py
 ---
 
 ## Batch Generation
-![alt text](https://github.com/0M-R/ComfyUI_Orchestrator/1.png)
+![alt text](https://github.com/0M-R/ComfyUI_Orchestrator/blob/main/1.png)
 
 The orchestrator can execute workflows multiple times to generate batches of images automatically using the ComfyUI API.
 
