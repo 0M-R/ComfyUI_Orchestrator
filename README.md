@@ -82,6 +82,7 @@ The orchestrator can execute workflows multiple times to generate batches of ima
 ---
 ## multi prompt on same image
 ![alt text](https://github.com/0M-R/ComfyUI_Orchestrator/blob/main/2.png)
+
 Multiangle (multi-prompt) = generating different pose/angle outputs by changing prompts while keeping the same product/design context
 prompt_1.txt "front view female model wearing groot printed t-shirt"
 prompt_2txt "back view female model wearing groot printed t-shirt"
